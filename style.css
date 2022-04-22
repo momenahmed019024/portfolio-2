@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+
+    display: flex;
+}
+
+p {
+    color: blue;
+}
+
+h1 {
+    color: brown;
+    background-color: black;
+    background-size: 50%;
+}
+
+h3 {
+    color: brown;
+    background-color: bisque;
+}
+
+.width {
+    width: 50%;
+    margin: 30px;
+    border: 50px;
+    padding: 10%;
+    background-image: ;
+}
+
+.width img {
+    width: 70%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 10px 10px;
+    border-radius: 20px;
+
+
+}
