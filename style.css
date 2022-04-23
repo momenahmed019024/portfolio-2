@@ -27,7 +27,7 @@ h3 {
     margin: 30px;
     border: 50px;
     padding: 10%;
-    background-image: ;
+
 }
 
 .width img {
@@ -38,7 +38,31 @@ h3 {
     text-decoration: none;
     background-color: chartreuse;
     padding: 10px 10px;
-    border-radius: 20px;
+    border-radius: 20px
+}
+
+.helf {
+    width: 50%;
+    margin: 80px;
+
+    box-shadow: 15px 15px 40px red;
+    padding: 10px;
 
 
+}
+
+footer {
+    text-align: center;
+}
+
+#change {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, red);
+    border-image-slice: 1;
+}
+
+#deffrence {
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow, tomato);
+    border-image-slice: 1;
 }
